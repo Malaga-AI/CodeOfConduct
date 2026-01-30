@@ -24,6 +24,6 @@ This repository contains the official Code of Conduct for the Malaga-AI communit
 - Do not generate fraudulent profits at the expense of others.
 
 # :four: Report violations:
-### ⭕ Remember to report any illegal acts that may occur on this server.
+### ⭕ Remember to report any illegal acts that may occur.
 - Report any activity that violates the guidelines.
-- Discourage vigilantism and do not interfere with server investigations.
+- Discourage vigilantism and do not interfere with staff investigations.
